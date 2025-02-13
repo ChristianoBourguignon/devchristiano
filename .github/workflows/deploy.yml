@@ -3,7 +3,7 @@ name: FTP Deploy
 on:
   push:
     branches:
-      - main  # Altere para a branch que deseja monitorar
+      - master
 
 jobs:
   deploy:
