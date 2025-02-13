@@ -11,15 +11,15 @@
         <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
         <style>
-            *{margin:0;padding:0;max-width:100vw;width: 100vw;}
+            *{margin:0;padding:0;max-width:100vw;}
             body {
                 margin: 0px;
                 display: flex;
                 flex-direction: column;
                 align-items: center;
                 justify-content: center;
-                width: 100vw;
-                height: 100vh;
+                width: 100%;
+                height: 100%;
                 min-height: 675px;
                 background-color: #F4F5FF;
             }
