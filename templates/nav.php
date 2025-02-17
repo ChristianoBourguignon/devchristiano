@@ -1,7 +1,7 @@
 <nav class="navbar bg-dark border-bottom border-body navbar-expand-lg" data-bs-theme="dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="<?= BASE_URL ?>">
-            <img src="/dev-christiano/img/dev-logo.png" alt="Logo" width="50" height="44" class="d-inline-block align-text-top">
+            <img src="/img/dev-logo.png" alt="Logo" width="50" height="44" class="d-inline-block align-text-top">
         </a>
         <div class="collapse navbar-collapse" id="navbarText">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">

@@ -5,7 +5,7 @@
             <a href="https://www.linkedin.com/in/christiano-bourguignon-228a37181/" class="text-white mx-3"><i class="fab fa-linkedin-in"></i></a>
         </div>
         <div class="mb-3">
-            <img src="/dev-christiano/img/dev-logo.png" alt="Logo" width="30px" height="30px" class="img-fluid" style="max-height: 50px;">
+            <img src="/img/dev-logo.png" alt="Logo" width="30px" height="30px" class="img-fluid" style="max-height: 50px;">
         </div>
         <p class="mb-0">&copy; <?php print date("Y"); ?> Todos os direitos reservados.</p>
     </div>
