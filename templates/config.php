@@ -1,3 +1,3 @@
 <?php 
-define('BASE_URL', '/devchristiano/');
+define('BASE_URL', 'devchristiano/');
 ?>
