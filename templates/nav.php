@@ -1,11 +1,7 @@
 <nav class="navbar bg-dark border-bottom border-body navbar-expand-lg" data-bs-theme="dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="<?= BASE_URL ?>">
-<<<<<<< HEAD
             <img src="<?php BASE_URL ?>img/dev-logo.png" alt="Logo" width="50" height="44" class="d-inline-block align-text-top">
-=======
-            <img src="<?= BASE_URL ?>img/dev-logo.png" alt="Logo" width="50" height="44" class="d-inline-block align-text-top">
->>>>>>> 2005cf35f8d0bc353cc37adc524f268c2353ccd7
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
