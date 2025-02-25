@@ -13,6 +13,12 @@ jobs:
       - name: Checkout do código
         uses: actions/checkout@v3
 
+      - name: Definir BASE_URL com base na branch
+        run: |
+          if [[ "${{ github.ref }}" == "refs/heads/deploy" ]]; then
+            sed -i "s|define('BASE_URL', '.*');|define('BASE_URL', '/');|" templates/config.php
+          fi
+
       - name: Deploy via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:

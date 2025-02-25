@@ -9,7 +9,11 @@
             </a>
         </div>
         <div class="mb-3">
+<<<<<<< HEAD
             <img src="<?php BASE_URL ?>img/dev-logo.png" alt="Logo" class="img-fluid" style="max-height: 50px; width: auto;">
+=======
+            <img src="<?= BASE_URL ?>img/dev-logo.png" alt="Logo" width="30px" height="30px" class="img-fluid" style="max-height: 50px;">
+>>>>>>> 2005cf35f8d0bc353cc37adc524f268c2353ccd7
         </div>
         <p class="mb-0">&copy; <?php print date("Y"); ?> Todos os direitos reservados.</p>
     </div>
